@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9C374122-D0FB-481A-9516-75D429E6C62E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Hello World!</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8220F52E-3305-413D-B000-3EF6E88BE422</key>
+		<string>https://github.com/LearningMobile/BookApps.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Ch09 iOS Hello World/Hello World!.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8220F52E-3305-413D-B000-3EF6E88BE422</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/LearningMobile/BookApps.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8220F52E-3305-413D-B000-3EF6E88BE422</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8220F52E-3305-413D-B000-3EF6E88BE422</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BookApps</string>
+		</dict>
+	</array>
+</dict>
+</plist>
