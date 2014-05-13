@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "container:../../Downloads/BookApps/Ch09 iOS Hello World/Hello World!.xcodeproj">
+      location = "container:../../../Downloads/BookApps/Ch09 iOS Hello World/Hello World!.xcodeproj">
    </FileRef>
 </Workspace>
